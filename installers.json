@@ -1,5 +1,22 @@
 [
   {
+    "version": "4.0-alpha12",
+    "mono": false,
+    "preRelease": true,
+    "linux": {
+      "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha12/Godot_v4.0-alpha12_linux.64.zip",
+      "executableName": "Godot_v4.0-alpha12_linux.64"
+    },
+    "mac": {
+      "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha12/Godot_v4.0-alpha12_osx.universal.zip",
+      "executableName": "Godot.app/Contents/MacOS/Godot"
+    },
+    "win": {
+      "url": "https://downloads.tuxfamily.org/godotengine/4.0/alpha12/Godot_v4.0-alpha12_win64.exe.zip",
+      "executableName": "Godot_v4.0-alpha12_win64.exe"
+    }
+  },
+  {
     "version": "4.0-alpha11",
     "mono": false,
     "preRelease": true,
